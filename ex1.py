@@ -1,2 +1,2 @@
 def imprimi_bemvindo():
-    print('ola, mundo')
+    print('ola, galera')
